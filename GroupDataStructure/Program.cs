@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿//hi this is alex playing with stuff and matt
+=======
+﻿//hi this is alex playing with stuff
+//and this is Gihong
+//Gihong again boo! #hacked
+>>>>>>> 5640e079ee58ce6fdde468a34089dc3c6f3ab115
 
 using System;
 using System.Collections.Generic;
