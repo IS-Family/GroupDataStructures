@@ -1,0 +1,7 @@
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\bin\Debug\GroupDataStructure.exe.config
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\bin\Debug\GroupDataStructure.exe
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\bin\Debug\GroupDataStructure.pdb
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\obj\Debug\GroupDataStructure.csprojResolveAssemblyReference.cache
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\obj\Debug\GroupDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\obj\Debug\GroupDataStructure.exe
+C:\Users\Gihong\source\repos\GroupDataStructure\GroupDataStructure\obj\Debug\GroupDataStructure.pdb
